@@ -4,8 +4,8 @@
 
 ## Technologies used :
 <ol>
- <li>TypeScirpt</li>
- <li>Reactjs for information: https://reactjs.org/</li>
+ <li>TypeScript</li>
+ <li>Reactjs for information</li>
  <li>Styled-Components</li> 
 </ol>
 
